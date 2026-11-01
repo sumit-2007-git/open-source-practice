@@ -3,3 +3,6 @@ Repository for practicing Git workflows, pull requests, and open source collabor
 
 ## Community Collaboration
 Thanks to all contributors!
+
+### Contributor Showcase
+Special thanks to the open source community.
