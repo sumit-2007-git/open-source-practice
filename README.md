@@ -6,3 +6,6 @@ Thanks to all contributors!
 
 ### Contributor Showcase
 Special thanks to the open source community.
+
+## Continuous Integration & Merging
+Guidelines and workflows for direct continuous contribution and pull request practice.
